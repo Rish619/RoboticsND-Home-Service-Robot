@@ -201,30 +201,28 @@ $ ~/catkin_ws/src/home_service.sh
 ## Results  
 ### Map  
 
-![alt text][map]
+![alt text](images/wall.gif)
 
 ### Start  
-![alt text][st]
+![alt text](images/home_service_1.gif)
 
 ### Pickup  
 
 At Pickup Location Before Picking up RViz  
 
-![alt text][t1p1]  
+![alt text](images/home_service_2.gif)  
 
 At Pickup Location After Picking up RViz  
 
-![alt text][t1p2]  
+![alt text][]  
 
 At Pickup Location Gazebo  
 
-![alt text][t1gaz]
+![alt text](images/home_service_3.gif)
 
 ### Drop off  
 
 At Drop off Location RViz  
 
-![alt text][t1d]  
+![alt text](images/home_service_4.gif)  
 
-At Drop Off Location Gazebo
-![alt text][t2gaz]
