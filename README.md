@@ -203,6 +203,8 @@ $ ~/catkin_ws/src/home_service.sh
 
 ![alt text](images/turtlebot_1.png)
 
+![alt text](images/FIN.gif)
+
 ## Results  
 ### Map  
 
