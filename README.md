@@ -197,6 +197,11 @@ Run home_service.sh to pick and drop marker to specified locations.
 ```
 $ ~/catkin_ws/src/home_service.sh
 ```
+## Turtlebot
+
+![alt text](images/turtlebot_2.png)
+
+![alt text](images/turtlebot_1.png)
 
 ## Results  
 ### Map  
@@ -211,10 +216,7 @@ $ ~/catkin_ws/src/home_service.sh
 At Pickup Location Before Picking up RViz  
 
 ![alt text](images/home_service_2.gif)  
-
-At Pickup Location After Picking up RViz  
-
-![alt text][]  
+ 
 
 At Pickup Location Gazebo  
 
