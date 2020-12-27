@@ -148,6 +148,12 @@ Run wall_follower.sh to autonomously navigate and create map.
 ```
 $ ~/catkin_ws/src/wall_follower.sh
 ```
+## Save Map
+
+```
+rosrun map_server map_saver -f <map-location-and-name>
+
+```
 ## Test Navigation
 Sending map_file parameter caused file not found error. Therefore, amcl_demo.launch file changed to accept uamp.yaml file as the default map.
 ```
@@ -209,6 +215,8 @@ $ ~/catkin_ws/src/home_service.sh
 ### Map  
 
 ![alt text](images/wall.gif)
+
+![alt text](images/Map.png)
 
 ### Start  
 ![alt text](images/home_service_1.gif)
